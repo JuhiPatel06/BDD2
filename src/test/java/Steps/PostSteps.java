@@ -19,6 +19,7 @@ public class PostSteps {
     @And("Click on post button")
     public void clickOnPostButton() {
         System.out.println("clickOnPostButton");
+         System.out.println("Joohie");
     }
 
     @Then("The message should get posted")
