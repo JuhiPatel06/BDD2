@@ -17,7 +17,7 @@ public class PostSteps {
     }
 
     @And("Click on post button")
-    public voiddd clickOnPostButton() {
+    public void clickOnPostButton() {
         System.out.println("clickOnPostButton");
          System.out.println("Joohie");
     }
